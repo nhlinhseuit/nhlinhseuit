@@ -1,3 +1,5 @@
+🌟ABOUT MYSELF 🌟
+
 - 👋 Hi there, I'm Hoang Linh - The Amazing World Of Hexagon member •~•
 - 👀 I’m interested in learning new things, working out, yoga, reading books, meditation and so forth •~•
 - 🌱 I’m currently a Freshman at UIT, my department is Software Engineering •~•
