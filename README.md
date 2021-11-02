@@ -8,7 +8,10 @@
 
 
 <h4>📚 STUDY PROGRESS 📚</h4>
-<img align="left" alt="c++" width="40px" src="https://ibb.co/CWWFvCB"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sttrQxj/C.png" alt="C" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/X3HsPcR/html.png" alt="html" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TbYMQRr/css.png" alt="css" border="0"></a>
+
 
 
 
