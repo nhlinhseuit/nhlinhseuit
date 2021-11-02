@@ -1,7 +1,7 @@
 <h3>🌟ABOUT MYSELF 🌟</h3>
 
 - 👋 Hi there, I'm Hoang Linh - The Amazing World Of Hexagon member •~•
-- 👀 I’m interested in learning new things, working out, yoga, reading books, meditation and so forth •~•
+- 👀 I’m interested in learning new things, workout, yoga, meditation and so forth •~•
 - 🌱 I’m currently a Freshman at UIT, my department is Software Engineering •~•
 - 💞️ I’m looking to collaborate with other awesome people and work effectively with my team •~•
 - 📫 Age 18 goal: Know how to play guitar, get a UIT Scholarship and have a fitter body •~•
