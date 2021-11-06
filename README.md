@@ -9,7 +9,7 @@
 <h4>📚 STUDY PROGRESS 📚</h4>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/sttrQxj/C.png" width = 100px alt="C" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/X3HsPcR/html.png" width = 120px alt="html" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TbYMQRr/css.png" width = 100px alt="css" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TbYMQRr/css.png" width = 110px alt="css" border="0"></a>
 
 
 
