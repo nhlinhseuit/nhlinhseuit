@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:
 <p align="left">
-<a href="https://www.facebook.com/nhlinhseuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuankietcoderr" height="30" width="40" /></a>
-<a href="https://instagram.com/hoanglinhhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__tkiet__" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nhlinhseuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhlinhseuit" height="30" width="40" /></a>
+<a href="https://instagram.com/nhlinhseuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhlinhseuit" height="30" width="40" /></a>
 <hr>
 
   
