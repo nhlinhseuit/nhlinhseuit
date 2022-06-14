@@ -1,3 +1,6 @@
+    
+ <h2>좋은 하루 보내세요 😂</h2>
+
 <h3>🌟ABOUT MYSELF 🌟</h3>
 
 - 👋 Hi there, I'm Hoang Linh •~•
@@ -5,7 +8,7 @@
 - 🌱 I’m currently a Freshman at UIT, my department is Software Engineering •~•
 - 💻 I'm looking to collaborate with other people and work effectively with my team •~•
 - 📫 Self-learning: Web development •~•
-
+  
 
 </p>
   <h3 align="left">Languages and Tools:</h3>
