@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new things, workout, yoga, meditation and so forth •~•
 - 🌱 I’m currently a Freshman at UIT, my department is Software Engineering •~•
 - 💻 I'm looking to collaborate with other people and work effectively with my team •~•
-- 📫 Self-learning: Web development and BA •~•
+- 📫 Self-learning: Web development •~•
 
 
 <h3>📚 STUDY PROGRESS 📚</h3>
