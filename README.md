@@ -1,13 +1,12 @@
     
- <h2>좋은 하루 보내세요 😂</h2>
+ <h1>️HI THERE 👋</h1>
 
 <h3>🌟ABOUT MYSELF 🌟</h3>
 
-- 👋 Hi there, I'm Hoang Linh •~•
-- 👀 I’m interested in learning new things, workout, yoga, meditation and so forth •~•
-- 🌱 I’m currently a Freshman at UIT, my department is Software Engineering •~•
-- 💻 I'm looking to collaborate with other people and work effectively with my team •~•
-- 📫 Self-learning: Web development •~•
+- 🌱 I'm Hoang Linh, I’m currently a Sophomore at University of Information Technology VNU, my department is Software Engineering •~•
+- 👀 I’m interested in learning new things, reading, working out and other sports •~•
+- 💻 I'm looking to collaborate with other people and work effectively with my team. I'm kind of person who will devote myself to the work I take on •~•
+- 📫 Self-learning: Mobile development with FLutter •~•
   
 
 </p>
