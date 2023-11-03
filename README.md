@@ -30,9 +30,7 @@
 <a href="https://instagram.com/nhlinhseuit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhlinhseuit" height="30" width="40" /></a>
 <hr>
 
-  
-  
-  ![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhlinhseuit&theme=radical&show_icons=true)
+
 
 
   
