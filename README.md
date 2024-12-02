@@ -3,15 +3,19 @@
 
 <h3>🌟ABOUT MYSELF 🌟</h3>
 
-- 🌱 I'm Hoang Linh, I’m currently a Junior at University of Information Technology VNU, my department is Software Engineering •~•
+- 🌱 I'm Hoang Linh, I’m currently in Senior year at University of Information Technology VNU, my department is Software Engineering •~•
 - 👀 I’m interested in learning new things, reading, working out and other sports •~•
 - 💻 I'm looking to collaborate with other people and work effectively with my team. I'm kind of person who will devote myself to the work I take on •~•
-- 📫 Self-learning: Mobile development with FLutter •~•
+- 📫 Self-learning: Web development with NextJS, Mobile development with FLutter •~•
   
 
 </p>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+    <a href="https://nextjs.org/docs" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://github.com/facebook/react/wiki/react-logo-1000-transparent.png" alt="reactjs" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a>
+    <a href="https://v2.tailwindcss.com/docs" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="tailwindcss" width="40" height="40"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
