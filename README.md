@@ -11,8 +11,8 @@
 </p>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://nextjs.org/docs" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/> </a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://github.com/facebook/react/wiki/react-logo-1000-transparent.png" alt="reactjs" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/docs" target="_blank"> <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png" alt="reactjs" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a>
     <a href="https://v2.tailwindcss.com/docs" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" alt="tailwindcss" width="40" height="40"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" alt="flutter" width="40" height="40"/> </a>
