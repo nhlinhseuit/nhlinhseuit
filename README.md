@@ -18,7 +18,7 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png" alt="flutter" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="cdsharp" width="35" height="40"/> </a>
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="cdsharp" width="35" height="40"/> </a>
   <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="44" height="44"/> </a>
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html5" width="42" height="42"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="44" height="44"/> </a>
