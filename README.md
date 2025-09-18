@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel)](https://nhlinhseuit.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nhlinhseuit/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:dev.hoanglinh@gmail.com)
 
@@ -74,7 +74,7 @@
   
 ### 🚀 **Check out my complete portfolio!**
   
-[![Visit Portfolio](https://img.shields.io/badge/🌟_VISIT_MY_PORTFOLIO-Click_Here-gradient?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/🌟_VISIT_MY_PORTFOLIO-Click_Here-gradient?style=for-the-badge&logo=vercel&logoColor=white)](https://nhlinhseuit.vercel.app)
 
 _Discover my projects, experience, and skills in detail_
 
